@@ -30,11 +30,10 @@ Execute the program using runserver command.
               <title> web </title>
      </head>
      <body bgcolor="black" TEXT="white">
-<center>
-     <img src="/static/images/saveethalogo.png"  height="100" width="1000" align="center" /></center>
+
           
           <table border= "4" cellspacing="0px" cellpadding="10px" bgcolor=green" align="center" >
-          <CAPTION align=“top”> SLOT TIME TABLE - CHARUMATHI R(22006878) </CAPTION>
+          <CAPTION align=“top”> SLOT TIME TABLE - SURJITH(212223043006) </CAPTION>
           <br>
           <br>
                <tr> 
@@ -44,22 +43,25 @@ Execute the program using runserver command.
                <th bgcolor="purple">   WEDNESDAY </th>
                <th bgcolor="purple">   THURSDAY </th>
                <th bgcolor="purple">   FRIDAY </th>
+               <th bgcolor="purple>">  SATURDAY</th>
                </tr>
                <tr>
                 <th bgcolor="purple"> 8-10 </th>
-                <td> -- </td>
-                <td> C programming </td>
+                <td> Quantitative Ability </td>
+                <td> Computer Architecture </td>
                   <td> -- </td>
-                <td> FWAD </td>
-                <td> FWAD </td>
+                <td> -- </td>
+                <td> Fundamental of Web Application development </td>
+                <td> -- </td>
                </tr>
                <tr>
                 <th bgcolor="purple"> 10-12 </th>
                 <td> -- </td>
-                <td> DL </td>
-                <td> DIP </td>
-                <td> DIP </td>
-                <td> DL </td>
+                <td> --  </td>
+                <td> Fundamental of Web Application development </td>
+                <td> -- </td>
+                <td> Computer Architecture </td>
+                <td> -- </td>
                </tr>
                <tr>
                 <th bgcolor="purple"> 12-1 </th>
@@ -69,19 +71,21 @@ Execute the program using runserver command.
                 <th bgcolor="purple"> 1-3 </th>
                 <td> -- </td>
                 <td> -- </td>
-                <td> FWAD </td>
+                <td> Mentor Meets </td>
                 <td> -- </td>
-                <td> Physics/- </td>
+                <td> Computer Networks </td>
+                <td>Probability and Queueing Models</td>
                </tr>
                
               
               <tr>
                <th bgcolor="purple"> 3-5 </th>
-               <td> Statictis </td>
-               <td> Physics </td>
-               <td> C Program </td> 
+               <td> Computer Networks </td>
+               <td> Fundamental of Web Application development </td>
+               <td> Probability and Queueing Models </td> 
                <td> -- </td> 
-               <td> Statictis </td>
+               <td> Career development skills </td>
+               <td> -- </td>
               </tr>
            </table>
             <table border= "4" cellspacing="0px" cellpadding="10px"  align="center" >
@@ -97,28 +101,28 @@ Execute the program using runserver command.
            </tr>
            <tr>
            <td> 2. </td>
-           <td> 19AI406 </td>
-           <td> Digital Image Processing techniques </td>
+           <td> 19MA22 </td>
+           <td> Probability and Queueing Models </td>
            </tr>
            <tr>
            <td> 3. </td>
-           <td> 19AI304 </td> 
-           <td> Fundamental of C programming </td>
+           <td> 19CS406 </td> 
+           <td> Computer Networks </td>
            </tr>
            <tr>
            <td> 4. </td>
-           <td> 19PH214 </td>
-           <td> Physics for quantum computing </td>
+           <td> ECA-M </td>
+           <td> Mentor Meets </td>
            </tr>
            <tr>
            <td> 5. </td>
-           <td> 19AI413 </td>
-           <td> Deep Learning and Applications </td>
+           <td> 19EY708 </td>
+           <td> Quantitative Ability </td>
            </tr>
            <tr>
            <td> 6. </td>
-           <td> 19MA211 </td>
-           <td> Statictis and Numerical Methods </td>
+           <td> 19CS305 </td>
+           <td> Computer Architecture </td>
            </tr>
            </table>
               
@@ -129,7 +133,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Ex3](https://github.com/user-attachments/assets/dee4a466-b79e-4ab7-9297-6497e467fb75)
+![Screenshot 2024-11-13 223612](https://github.com/user-attachments/assets/a08b03f2-2e46-4688-9dcf-ca3b6cf56631)
 
 
 ## RESULT
